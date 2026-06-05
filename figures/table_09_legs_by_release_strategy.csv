@@ -1,0 +1,6 @@
+release_strategy,films,median_legs,mean_legs,high_legs_pct,median_opening_weekend,median_avg_weeks_per_theater
+Exclusive (1-10),648,6.66,8.34,79.32,86833.5,5.6
+Limited (11-100),227,4.71,6.39,60.35,248847.0,4.4
+Platform / moderate (101-600),140,3.51,5.19,40.71,1372680.5,3.6
+"Semi-wide (601-1,999)",515,3.27,4.28,35.92,5582079.0,4.3
+"Wide (2,000+)",2429,2.95,3.24,18.44,16728411.0,4.8

@@ -1,0 +1,6 @@
+release_strategy,films,rated_films,median_imdb_rating,mean_imdb_rating,median_imdb_votes,high_rating_7_plus_pct
+Exclusive (1-10),648,600,7.1,7.03,53281.0,55.86
+Limited (11-100),227,213,7.0,6.91,42352.0,48.9
+Platform / moderate (101-600),140,138,6.7,6.56,46148.0,40.71
+"Semi-wide (601-1,999)",515,505,6.5,6.45,52624.0,32.43
+"Wide (2,000+)",2429,2405,6.3,6.28,118461.5,22.73

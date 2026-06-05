@@ -1,0 +1,86 @@
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>theme</th>
+      <th>question</th>
+      <th>model</th>
+      <th>term</th>
+      <th>coefficient</th>
+      <th>p_value</th>
+      <th>significance</th>
+      <th>plain_interpretation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Perceived value</td>
+      <td>Are platform releases associated with IMDb rating?</td>
+      <td>M1 IMDb rating</td>
+      <td>platform_release</td>
+      <td>0.0858</td>
+      <td>0.2615</td>
+      <td></td>
+      <td>positive association</td>
+    </tr>
+    <tr>
+      <td>Perceived value</td>
+      <td>Are wider openings associated with IMDb rating?</td>
+      <td>M1 IMDb rating</td>
+      <td>log_opening_theaters</td>
+      <td>-0.0884</td>
+      <td>0.0000</td>
+      <td>***</td>
+      <td>negative association</td>
+    </tr>
+    <tr>
+      <td>Sustained demand</td>
+      <td>Are platform releases associated with legs?</td>
+      <td>M2 Legs</td>
+      <td>platform_release</td>
+      <td>-2.3034</td>
+      <td>0.0340</td>
+      <td>*</td>
+      <td>negative association</td>
+    </tr>
+    <tr>
+      <td>Commercial scale</td>
+      <td>Are wider openings associated with worldwide box office?</td>
+      <td>M3 Worldwide box office</td>
+      <td>log_opening_theaters</td>
+      <td>0.6535</td>
+      <td>0.0000</td>
+      <td>***</td>
+      <td>positive association</td>
+    </tr>
+    <tr>
+      <td>Commercial efficiency</td>
+      <td>Are platform releases associated with ROI?</td>
+      <td>M4 ROI</td>
+      <td>platform_release</td>
+      <td>1.1925</td>
+      <td>0.0333</td>
+      <td>*</td>
+      <td>positive association</td>
+    </tr>
+    <tr>
+      <td>Franchise difference</td>
+      <td>Does opening scale differ for franchises in the rating model?</td>
+      <td>M5 Franchise interaction</td>
+      <td>log_opening_theaters:is_franchise</td>
+      <td>-0.0158</td>
+      <td>0.4603</td>
+      <td></td>
+      <td>negative association</td>
+    </tr>
+    <tr>
+      <td>Quality condition</td>
+      <td>Does platform scarcity interact with high rating for box office?</td>
+      <td>M6 Quality interaction</td>
+      <td>platform_release:high_rating</td>
+      <td>-0.0156</td>
+      <td>0.9043</td>
+      <td></td>
+      <td>negative association</td>
+    </tr>
+  </tbody>
+</table>

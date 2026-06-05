@@ -1,0 +1,50 @@
+artifact,type,description
+figures_analysis/regression_dataset_clean.csv,data_csv,Cleaned regression dataset with constructed scarcity variables.
+figures_analysis/table_01_regression_variable_dictionary.csv,table_csv,Definitions of constructed variables used in the regression analysis.
+figures_analysis/table_01_regression_variable_dictionary.html,table_html,Definitions of constructed variables used in the regression analysis.
+figures_analysis/table_02_regression_sample_checks.csv,table_csv,Sample-size and coverage checks for regression variables.
+figures_analysis/table_02_regression_sample_checks.html,table_html,Sample-size and coverage checks for regression variables.
+figures_analysis/table_03_regression_summary_statistics.csv,table_csv,Summary statistics for regression variables.
+figures_analysis/table_03_regression_summary_statistics.html,table_html,Summary statistics for regression variables.
+figures_analysis/table_04_release_strategy_regression_summary.csv,table_csv,Regression-variable summary by release strategy.
+figures_analysis/table_04_release_strategy_regression_summary.html,table_html,Regression-variable summary by release strategy.
+figures_analysis/fig_01_regression_variable_distributions.png,figure,Release-strategy counts and distributions of the main logged predictors.
+figures_analysis/table_05_regression_spearman_correlation.csv,table_csv,Spearman correlation matrix for regression variables.
+figures_analysis/table_05_regression_spearman_correlation.html,table_html,Spearman correlation matrix for regression variables.
+figures_analysis/fig_02_regression_correlation_heatmap.png,figure,Correlation heatmap for the main regression variables.
+figures_analysis/table_06_core_predictor_vif.csv,table_csv,Variance inflation factors for the core non-fixed-effect predictors.
+figures_analysis/table_06_core_predictor_vif.html,table_html,Variance inflation factors for the core non-fixed-effect predictors.
+figures_analysis/table_07_model_specifications.csv,table_csv,Regression model specifications and thesis purpose.
+figures_analysis/table_07_model_specifications.html,table_html,Regression model specifications and thesis purpose.
+figures_analysis/table_08_key_regression_terms.csv,table_csv,Key theoretically relevant coefficients from the main regression models.
+figures_analysis/table_08_key_regression_terms.html,table_html,Key theoretically relevant coefficients from the main regression models.
+figures_analysis/table_09_all_regression_coefficients.csv,table_csv,"All coefficients from the main regression models, including fixed effects."
+figures_analysis/table_09_all_regression_coefficients.html,table_html,"All coefficients from the main regression models, including fixed effects."
+figures_analysis/table_10_model_fit_summary.csv,table_csv,Sample sizes and fit statistics for the main regression models.
+figures_analysis/table_10_model_fit_summary.html,table_html,Sample sizes and fit statistics for the main regression models.
+figures_analysis/regression_results.txt,text,"Full statsmodels summaries for all OLS, GLM, and quantile models."
+figures_analysis/fig_03_key_scarcity_coefficients.png,figure,"Coefficient plot for platform release, opening scale, and expansion terms across OLS models."
+figures_analysis/fig_04_predicted_rating_franchise_interaction.png,figure,Predicted IMDb rating by opening scale for franchise and non-franchise films.
+figures_analysis/table_11_franchise_interaction_predictions.csv,table_csv,Prediction grid for Model 5 franchise interaction plot.
+figures_analysis/table_11_franchise_interaction_predictions.html,table_html,Prediction grid for Model 5 franchise interaction plot.
+figures_analysis/fig_05_quality_interaction_predictions.png,figure,Predicted worldwide box office for platform-release and high-rating combinations.
+figures_analysis/table_12_quality_interaction_predictions.csv,table_csv,Prediction table for Model 6 platform-release by high-rating interaction.
+figures_analysis/table_12_quality_interaction_predictions.html,table_html,Prediction table for Model 6 platform-release by high-rating interaction.
+figures_analysis/table_13_platform_glm_all_odds_ratios.csv,table_csv,All binomial GLM platform-release coefficients converted to odds ratios.
+figures_analysis/table_13_platform_glm_all_odds_ratios.html,table_html,All binomial GLM platform-release coefficients converted to odds ratios.
+figures_analysis/table_14_platform_glm_key_odds_ratios.csv,table_csv,Key odds ratios for the platform-release likelihood model.
+figures_analysis/table_14_platform_glm_key_odds_ratios.html,table_html,Key odds ratios for the platform-release likelihood model.
+figures_analysis/fig_06_platform_release_probability.png,figure,Predicted platform-release probability by IMDb rating and franchise status.
+figures_analysis/table_15_platform_probability_predictions.csv,table_csv,Prediction grid for platform-release probability plot.
+figures_analysis/table_15_platform_probability_predictions.html,table_html,Prediction grid for platform-release probability plot.
+figures_analysis/table_16_quantile_regression_key_terms.csv,table_csv,Key coefficients from quantile regressions for worldwide box office.
+figures_analysis/table_16_quantile_regression_key_terms.html,table_html,Key coefficients from quantile regressions for worldwide box office.
+figures_analysis/fig_07_quantile_regression_scarcity_terms.png,figure,Quantile-regression coefficients for key scarcity terms.
+figures_analysis/fig_08_m1_residual_diagnostics.png,figure,Residual diagnostics for the perceived-value regression model.
+figures_analysis/table_17_case_film_regression_context.csv,table_csv,Parasite and Oppenheimer in the regression-variable and model-prediction context.
+figures_analysis/table_17_case_film_regression_context.html,table_html,Parasite and Oppenheimer in the regression-variable and model-prediction context.
+figures_analysis/fig_09_case_films_regression_space.png,figure,Parasite and Oppenheimer in opening-scarcity and expansion-ratio space.
+figures_analysis/table_18_regression_interpretation_summary.csv,table_csv,Plain-language interpretation of the most thesis-relevant regression coefficients.
+figures_analysis/table_18_regression_interpretation_summary.html,table_html,Plain-language interpretation of the most thesis-relevant regression coefficients.
+figures_analysis/table_19_research_question_answers_regression.csv,table_csv,Research questions mapped to what the regression analysis can and cannot answer.
+figures_analysis/table_19_research_question_answers_regression.html,table_html,Research questions mapped to what the regression analysis can and cannot answer.

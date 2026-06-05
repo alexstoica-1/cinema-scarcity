@@ -1,0 +1,5 @@
+log_opening_theaters,log_expansion_ratio,log_budget,is_franchise,genre_fe,release_year,platform_release,high_rating,group,predicted_log_worldwide_box_office,predicted_worldwide_box_office_usd
+7.8022,0.6954,17.1828,0,Drama,2009,0,0,"Platform=0, high rating=0",17.6553,46514988.1637
+7.8022,0.6954,17.1828,0,Drama,2009,0,1,"Platform=0, high rating=1",18.3205,90466340.4335
+7.8022,0.6954,17.1828,0,Drama,2009,1,0,"Platform=1, high rating=0",17.5443,41630752.0407
+7.8022,0.6954,17.1828,0,Drama,2009,1,1,"Platform=1, high rating=1",18.1939,79711262.7555

@@ -1,0 +1,26 @@
+movie_name,release_year,genre,creative_type,opening_theaters,max_theaters,legs,imdb_rating_num,production_budget_usd,worldwide_box_office_usd,roi_worldwide,positioning_proxy
+Avatar,2009,Action,Science Fiction,3452.0,3461.0,10.19,7.9,237000000,2923706026.0,12.34,Mainstream/event proxy
+Avatar: The Way of Water,2022,Action,Science Fiction,4202.0,4340.0,5.1,7.5,460000000,2315589775.0,5.03,Mainstream/event proxy
+Titanic,1997,Drama,Historical Fiction,2674.0,3265.0,19.02,8.0,200000000,2223048786.0,11.12,Mainstream/event proxy
+Spider-Man: No Way Home,2021,Action,Super Hero,4336.0,4336.0,3.13,8.1,200000000,1921206586.0,9.61,Mainstream/event proxy
+Inside Out 2,2024,Adventure,Kids Fiction,4440.0,4440.0,4.23,7.5,200000000,1698863816.0,8.49,Mainstream/event proxy
+The Avengers,2012,Action,Super Hero,4349.0,4349.0,3.01,8.0,225000000,1515100211.0,6.73,Mainstream/event proxy
+Top Gun: Maverick,2022,Action,Contemporary Fiction,4735.0,4751.0,5.67,8.2,170000000,1455073504.0,8.56,Mainstream/event proxy
+The Super Mario Bros. Movie,2023,Adventure,Kids Fiction,4343.0,4371.0,3.93,7.0,100000000,1359146628.0,13.59,Mainstream/event proxy
+Deadpool & Wolverine,2024,Action,Super Hero,4210.0,4330.0,3.01,7.5,200000000,1338071348.0,6.69,Mainstream/event proxy
+Black Panther,2018,Action,Super Hero,4020.0,4084.0,3.47,7.3,200000000,1334157082.0,6.67,Mainstream/event proxy
+Incredibles 2,2018,Adventure,Kids Fiction,4410.0,4413.0,3.33,7.5,200000000,1242805359.0,6.21,Mainstream/event proxy
+Spider-Man: Far From Home,2019,Action,Super Hero,4634.0,4634.0,4.23,7.3,160000000,1132298674.0,7.08,Mainstream/event proxy
+The Lord of the Rings: The Return of the King,2003,Adventure,Fantasy,3703.0,3703.0,5.25,9.0,94000000,1123837908.0,11.96,Mainstream/event proxy
+Skyfall,2012,Action,Contemporary Fiction,3505.0,3526.0,3.44,7.8,200000000,1110526981.0,5.55,Mainstream/event proxy
+Toy Story 4,2019,Adventure,Kids Fiction,4575.0,4575.0,3.59,7.6,200000000,1071177215.0,5.36,Mainstream/event proxy
+Toy Story 3,2010,Adventure,Kids Fiction,4028.0,4028.0,3.76,8.3,200000000,1068879522.0,5.34,Mainstream/event proxy
+Pirates of the Caribbean: Dead Man’s Chest,2006,Adventure,Historical Fiction,4133.0,4133.0,3.12,7.4,225000000,1066179725.0,4.74,Mainstream/event proxy
+Jurassic Park,1993,Adventure,Science Fiction,2404.0,2778.0,8.28,8.2,63000000,1058454230.0,16.8,Mainstream/event proxy
+Rogue One: A Star Wars Story,2016,Adventure,Science Fiction,4157.0,4157.0,3.44,7.8,280200000,1055083596.0,3.77,Mainstream/event proxy
+Zootopia,2016,Adventure,Kids Fiction,3827.0,3959.0,4.55,8.0,150000000,1025485003.0,6.84,Mainstream/event proxy
+Finding Dory,2016,Adventure,Kids Fiction,4305.0,4305.0,3.6,7.2,200000000,1025006125.0,5.13,Mainstream/event proxy
+The Hobbit: An Unexpected Journey,2012,Adventure,Fantasy,4045.0,4100.0,3.58,7.8,200000000,1014938545.0,5.07,Mainstream/event proxy
+The Dark Knight,2008,Action,Super Hero,4366.0,4366.0,3.39,9.1,185000000,1010086005.0,5.46,Mainstream/event proxy
+Oppenheimer,2023,Drama,Dramatization,3610.0,3761.0,4.0,8.2,100000000,976518442.0,9.77,Mainstream/event proxy
+Despicable Me 2,2013,Adventure,Kids Fiction,3997.0,4003.0,4.37,7.3,76000000,975216835.0,12.83,Mainstream/event proxy

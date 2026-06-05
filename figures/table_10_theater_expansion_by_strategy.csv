@@ -1,0 +1,6 @@
+release_strategy,films,median_opening_theaters,median_max_theaters,median_expansion_ratio,median_opening_to_max_ratio,platform_expansion_pct,major_expansion_pct
+Exclusive (1-10),648,4.0,267.5,61.56,0.02,24.23,24.23
+Limited (11-100),227,24.0,259.0,10.11,0.1,28.63,28.63
+Platform / moderate (101-600),140,304.5,457.5,1.02,0.98,0.0,2.86
+"Semi-wide (601-1,999)",515,1495.0,1585.0,1.01,0.99,0.0,0.0
+"Wide (2,000+)",2429,2981.0,3014.0,1.0,1.0,0.0,0.0

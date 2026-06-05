@@ -1,0 +1,4 @@
+positioning_proxy,films,median_opening_theaters,median_max_theaters,median_budget,median_worldwide_box,median_imdb_rating,median_legs,median_roi_worldwide,platform_expansion_pct,wide_opening_pct
+Arthouse/prestige proxy,924,6.0,284.5,9550000.0,11564315.5,7.0,5.92,1.58,20.13,0.0
+Mainstream/event proxy,2724,2861.0,2921.5,40000000.0,101266561.5,6.4,3.01,2.62,1.32,89.17
+Other / mixed proxy,311,1432.0,1525.0,16000000.0,20052958.0,6.5,2.85,1.53,0.0,0.0

@@ -1,0 +1,6 @@
+release_strategy,films,median_budget,median_worldwide_box,median_roi_worldwide,mean_roi_worldwide,profitable_worldwide_pct,high_roi_5x_pct
+Exclusive (1-10),648,9000000.0,12932538.0,1.85,5.13,65.12,23.92
+Limited (11-100),227,10000000.0,17025444.0,1.89,9.12,63.44,24.23
+Platform / moderate (101-600),140,12000000.0,14242159.0,1.41,4.33,56.43,20.0
+"Semi-wide (601-1,999)",515,17000000.0,28649556.0,1.95,4.69,70.1,23.5
+"Wide (2,000+)",2429,45000000.0,105078449.0,2.58,3.93,84.69,19.18

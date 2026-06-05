@@ -1,0 +1,8 @@
+theme,question,model,term,coefficient,p_value,significance,plain_interpretation
+Perceived value,Are platform releases associated with IMDb rating?,M1 IMDb rating,platform_release,0.0858,0.2615,,positive association
+Perceived value,Are wider openings associated with IMDb rating?,M1 IMDb rating,log_opening_theaters,-0.0884,0.0,***,negative association
+Sustained demand,Are platform releases associated with legs?,M2 Legs,platform_release,-2.3034,0.034,*,negative association
+Commercial scale,Are wider openings associated with worldwide box office?,M3 Worldwide box office,log_opening_theaters,0.6535,0.0,***,positive association
+Commercial efficiency,Are platform releases associated with ROI?,M4 ROI,platform_release,1.1925,0.0333,*,positive association
+Franchise difference,Does opening scale differ for franchises in the rating model?,M5 Franchise interaction,log_opening_theaters:is_franchise,-0.0158,0.4603,,negative association
+Quality condition,Does platform scarcity interact with high rating for box office?,M6 Quality interaction,platform_release:high_rating,-0.0156,0.9043,,negative association

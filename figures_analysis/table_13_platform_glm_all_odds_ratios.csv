@@ -1,0 +1,33 @@
+model,term,coef,std_error,p_value,ci_low,ci_high,stars,odds_ratio,or_ci_low,or_ci_high
+M7 Platform likelihood,Intercept,-11.346695,1.654458,0.0,-14.589374,-8.104017,***,1.2e-05,0.0,0.000302
+M7 Platform likelihood,C(genre_fe)[T.Adventure],0.158154,0.45842,0.730095,-0.740332,1.05664,,1.171347,0.476956,2.876689
+M7 Platform likelihood,C(genre_fe)[T.Black Comedy],1.576992,0.484392,0.001131,0.6276,2.526384,**,4.840374,1.87311,12.508192
+M7 Platform likelihood,C(genre_fe)[T.Comedy],1.349005,0.399894,0.000742,0.565228,2.132782,***,3.85359,1.759849,8.438313
+M7 Platform likelihood,C(genre_fe)[T.Documentary],-0.951453,0.791875,0.22955,-2.503499,0.600593,,0.38618,0.081798,1.8232
+M7 Platform likelihood,C(genre_fe)[T.Drama],1.298796,0.393577,0.000967,0.527399,2.070193,***,3.664882,1.69452,7.926351
+M7 Platform likelihood,C(genre_fe)[T.Horror],0.344272,0.567052,0.543767,-0.767129,1.455672,,1.410962,0.464344,4.287365
+M7 Platform likelihood,C(genre_fe)[T.Musical],2.098609,0.58551,0.000338,0.95103,3.246188,***,8.154816,2.588373,25.692212
+M7 Platform likelihood,C(genre_fe)[T.Other],-21.152148,0.59483,0.0,-22.317993,-19.986303,***,0.0,0.0,0.0
+M7 Platform likelihood,C(genre_fe)[T.Romantic Comedy],0.711453,0.509009,0.162196,-0.286185,1.709092,,2.036949,0.751123,5.523943
+M7 Platform likelihood,C(genre_fe)[T.Thriller/Suspense],0.625728,0.426813,0.142635,-0.21081,1.462267,,1.869607,0.809928,4.31573
+M7 Platform likelihood,C(genre_fe)[T.Western],1.730978,0.573264,0.002532,0.6074,2.854555,**,5.646171,1.835653,17.366707
+M7 Platform likelihood,C(source_fe)[T.Based on Factual Book/Article],1.017882,0.675991,0.132128,-0.307036,2.3428,,2.767327,0.735624,10.410344
+M7 Platform likelihood,C(source_fe)[T.Based on Fiction Book/Short Story],1.046455,0.63452,0.099105,-0.197181,2.290092,+,2.847539,0.821042,9.875843
+M7 Platform likelihood,C(source_fe)[T.Based on Folk Tale/Legend/Fairytale],1.80936,0.920417,0.049321,0.005375,3.613345,*,6.106537,1.00539,37.089902
+M7 Platform likelihood,C(source_fe)[T.Based on Game],-18.635098,0.646222,0.0,-19.901669,-17.368527,***,0.0,0.0,0.0
+M7 Platform likelihood,C(source_fe)[T.Based on Movie],0.009362,1.58493,0.995287,-3.097043,3.115767,,1.009406,0.045183,22.550729
+M7 Platform likelihood,C(source_fe)[T.Based on Play],1.533556,0.732347,0.036257,0.098183,2.96893,*,4.63463,1.103165,19.471065
+M7 Platform likelihood,C(source_fe)[T.Based on Real Life Events],1.22271,0.650861,0.060298,-0.052953,2.498374,+,3.396381,0.948425,12.162702
+M7 Platform likelihood,C(source_fe)[T.Based on TV],-0.499053,1.129684,0.658661,-2.713192,1.715087,,0.607105,0.066325,5.557158
+M7 Platform likelihood,C(source_fe)[T.Original Screenplay],0.629175,0.629593,0.317632,-0.604805,1.863154,,1.876062,0.546181,6.444031
+M7 Platform likelihood,C(source_fe)[T.Other],0.811864,0.745177,0.275937,-0.648655,2.272384,,2.252103,0.522748,9.702507
+M7 Platform likelihood,C(source_fe)[T.Remake],-1.308866,1.243639,0.292594,-3.746354,1.128621,,0.270126,0.023604,3.091392
+M7 Platform likelihood,C(source_fe)[T.Spin-Off],-19.271049,0.668969,0.0,-20.582204,-17.959893,***,0.0,0.0,0.0
+M7 Platform likelihood,C(release_decade)[T.1980s],0.273897,1.061658,0.796414,-1.806913,2.354708,,1.31508,0.16416,10.535051
+M7 Platform likelihood,C(release_decade)[T.1990s],0.53772,1.024187,0.599569,-1.46965,2.54509,,1.712099,0.230006,12.744374
+M7 Platform likelihood,C(release_decade)[T.2000s],0.596162,1.011544,0.555621,-1.386428,2.578752,,1.815139,0.249967,13.180681
+M7 Platform likelihood,C(release_decade)[T.2010s],0.833486,1.012624,0.410454,-1.15122,2.818193,,2.301328,0.316251,16.746555
+M7 Platform likelihood,C(release_decade)[T.2020s],0.422745,1.049248,0.68702,-1.633744,2.479233,,1.526145,0.195197,11.932111
+M7 Platform likelihood,imdb_rating_num,1.495894,0.103954,0.0,1.292148,1.699639,***,4.463324,3.640599,5.471973
+M7 Platform likelihood,log_budget,-0.211586,0.049567,2e-05,-0.308735,-0.114437,***,0.8093,0.734375,0.891869
+M7 Platform likelihood,is_franchise,-1.148665,0.258067,9e-06,-1.654466,-0.642864,***,0.31706,0.191194,0.525784

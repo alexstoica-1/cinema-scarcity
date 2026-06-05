@@ -1,0 +1,40 @@
+model,term,coef,std_error,p_value,ci_low,ci_high,stars
+M1 IMDb rating,platform_release,0.0858,0.0764,0.2615,-0.064,0.2355,
+M1 IMDb rating,log_opening_theaters,-0.0884,0.018,0.0,-0.1237,-0.053,***
+M1 IMDb rating,log_expansion_ratio,0.0313,0.0305,0.3037,-0.0284,0.091,
+M1 IMDb rating,log_budget,0.0043,0.0186,0.8161,-0.0322,0.0408,
+M1 IMDb rating,log_imdb_votes,0.1998,0.0194,0.0,0.1619,0.2378,***
+M1 IMDb rating,is_franchise,0.0796,0.0379,0.0357,0.0053,0.1539,*
+M2 Legs,platform_release,-2.3034,1.0864,0.034,-4.4327,-0.1742,*
+M2 Legs,log_opening_theaters,-0.539,0.1187,0.0,-0.7717,-0.3063,***
+M2 Legs,log_expansion_ratio,0.5091,0.2741,0.0632,-0.0281,1.0463,+
+M2 Legs,imdb_rating_num,0.7837,0.0886,0.0,0.61,0.9574,***
+M2 Legs,log_budget,0.0576,0.1122,0.6078,-0.1623,0.2775,
+M2 Legs,is_franchise,0.2432,0.17,0.1526,-0.09,0.5764,
+M3 Worldwide box office,platform_release,-0.0587,0.1064,0.5811,-0.2674,0.1499,
+M3 Worldwide box office,log_opening_theaters,0.6535,0.0227,0.0,0.6089,0.6981,***
+M3 Worldwide box office,log_expansion_ratio,0.7875,0.0411,0.0,0.7069,0.8681,***
+M3 Worldwide box office,imdb_rating_num,0.4139,0.0192,0.0,0.3763,0.4515,***
+M3 Worldwide box office,log_budget,0.4135,0.0197,0.0,0.375,0.452,***
+M3 Worldwide box office,is_franchise,0.7384,0.0324,0.0,0.6748,0.802,***
+M4 ROI,platform_release,1.1925,0.5601,0.0333,0.0947,2.2903,*
+M4 ROI,log_opening_theaters,1.6963,0.108,0.0,1.4847,1.9079,***
+M4 ROI,log_expansion_ratio,1.8375,0.1852,0.0,1.4745,2.2006,***
+M4 ROI,imdb_rating_num,1.2303,0.0919,0.0,1.0502,1.4104,***
+M4 ROI,log_budget,-2.7119,0.1691,0.0,-3.0433,-2.3805,***
+M4 ROI,is_franchise,2.7736,0.2007,0.0,2.3803,3.167,***
+M5 Franchise interaction,log_opening_theaters,-0.1223,0.0071,0.0,-0.1362,-0.1084,***
+M5 Franchise interaction,is_franchise,0.1642,0.1691,0.3315,-0.1672,0.4956,
+M5 Franchise interaction,log_opening_theaters:is_franchise,-0.0158,0.0215,0.4603,-0.0579,0.0262,
+M5 Franchise interaction,log_budget,0.0332,0.0181,0.0666,-0.0023,0.0686,+
+M5 Franchise interaction,log_imdb_votes,0.2083,0.0184,0.0,0.1722,0.2445,***
+M6 Quality interaction,platform_release,-0.1109,0.1537,0.4705,-0.4122,0.1903,
+M6 Quality interaction,high_rating,0.6652,0.0349,0.0,0.5967,0.7337,***
+M6 Quality interaction,platform_release:high_rating,-0.0156,0.13,0.9043,-0.2704,0.2392,
+M6 Quality interaction,log_opening_theaters,0.6427,0.0233,0.0,0.597,0.6883,***
+M6 Quality interaction,log_expansion_ratio,0.7996,0.0421,0.0,0.7172,0.882,***
+M6 Quality interaction,log_budget,0.4349,0.0203,0.0,0.3951,0.4747,***
+M6 Quality interaction,is_franchise,0.7714,0.0328,0.0,0.707,0.8357,***
+M7 Platform likelihood,imdb_rating_num,1.4959,0.104,0.0,1.2921,1.6996,***
+M7 Platform likelihood,log_budget,-0.2116,0.0496,0.0,-0.3087,-0.1144,***
+M7 Platform likelihood,is_franchise,-1.1487,0.2581,0.0,-1.6545,-0.6429,***

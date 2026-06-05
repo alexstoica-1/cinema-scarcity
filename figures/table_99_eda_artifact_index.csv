@@ -1,0 +1,57 @@
+artifact,type,description
+figures/table_01_data_quality_columns.csv,table_csv,"Column-level missingness, dtypes, and unique-value counts."
+figures/table_01_data_quality_columns.html,table_html,"Column-level missingness, dtypes, and unique-value counts."
+figures/table_02_data_quality_checks.csv,table_csv,Dataset-level data quality checks for the EDA sample.
+figures/table_02_data_quality_checks.html,table_html,Dataset-level data quality checks for the EDA sample.
+figures/table_03_numeric_summary.csv,table_csv,Descriptive summary for the main numeric variables used in the scarcity EDA.
+figures/table_03_numeric_summary.html,table_html,Descriptive summary for the main numeric variables used in the scarcity EDA.
+figures/table_04_scarcity_variable_dictionary.csv,table_csv,Definitions of constructed scarcity and positioning variables.
+figures/table_04_scarcity_variable_dictionary.html,table_html,Definitions of constructed scarcity and positioning variables.
+figures/table_05_release_strategy_summary.csv,table_csv,Film counts and median outcomes by release-strategy bucket.
+figures/table_05_release_strategy_summary.html,table_html,Film counts and median outcomes by release-strategy bucket.
+figures/fig_01_release_strategy_distribution.png,figure,Distribution of films by opening-theater release strategy.
+figures/fig_02_opening_theater_distribution.png,figure,Raw and log-scale distributions of opening-theater counts.
+figures/table_06_imdb_by_release_strategy.csv,table_csv,IMDb rating and vote summary by release strategy.
+figures/table_06_imdb_by_release_strategy.html,table_html,IMDb rating and vote summary by release strategy.
+figures/table_07_imdb_by_opening_scarcity_decile.csv,table_csv,IMDb rating summary by opening-theater scarcity decile.
+figures/table_07_imdb_by_opening_scarcity_decile.html,table_html,IMDb rating summary by opening-theater scarcity decile.
+figures/fig_03_scarcity_vs_imdb_rating.png,figure,IMDb rating distributions by release strategy and scarcity decile.
+figures/table_08_box_office_by_release_strategy.csv,table_csv,Budget and box office medians by release strategy.
+figures/table_08_box_office_by_release_strategy.html,table_html,Budget and box office medians by release strategy.
+figures/fig_04_scarcity_vs_box_office.png,figure,Relationship between opening scarcity and worldwide box office performance.
+figures/table_09_legs_by_release_strategy.csv,table_csv,Legs and theatrical staying-power metrics by release strategy.
+figures/table_09_legs_by_release_strategy.html,table_html,Legs and theatrical staying-power metrics by release strategy.
+figures/fig_05_scarcity_vs_legs.png,figure,Domestic legs by release strategy and opening-theater scale.
+figures/table_10_theater_expansion_by_strategy.csv,table_csv,Theater expansion metrics by release strategy.
+figures/table_10_theater_expansion_by_strategy.html,table_html,Theater expansion metrics by release strategy.
+figures/table_11_top_platform_expansions.csv,table_csv,"Films with the largest theater expansion ratios among titles reaching at least 1,000 theaters."
+figures/table_11_top_platform_expansions.html,table_html,"Films with the largest theater expansion ratios among titles reaching at least 1,000 theaters."
+figures/fig_06_theater_expansion.png,figure,Opening-to-maximum theater expansion patterns.
+figures/table_12_roi_by_release_strategy.csv,table_csv,Worldwide ROI and profitability by release strategy.
+figures/table_12_roi_by_release_strategy.html,table_html,Worldwide ROI and profitability by release strategy.
+figures/fig_07_scarcity_and_roi.png,figure,Worldwide ROI by release strategy and opening-scarcity score.
+figures/table_13_positioning_proxy_summary.csv,table_csv,"Summary metrics for arthouse/prestige, mainstream/event, and mixed proxy groups."
+figures/table_13_positioning_proxy_summary.html,table_html,"Summary metrics for arthouse/prestige, mainstream/event, and mixed proxy groups."
+figures/table_14_positioning_proxy_strategy_mix.csv,table_csv,"Release-strategy mix within each positioning proxy group, row percentages."
+figures/table_14_positioning_proxy_strategy_mix.html,table_html,"Release-strategy mix within each positioning proxy group, row percentages."
+figures/fig_08_positioning_proxy_comparison.png,figure,Comparison of release strategy and outcome metrics across positioning proxy groups.
+figures/table_15_genre_level_scarcity.csv,table_csv,"Genre-level theater scarcity, expansion, rating, legs, and ROI metrics."
+figures/table_15_genre_level_scarcity.html,table_html,"Genre-level theater scarcity, expansion, rating, legs, and ROI metrics."
+figures/fig_09_genre_level_scarcity.png,figure,Genre-level differences in opening-theater scale and limited opening share.
+figures/table_16_yearly_release_strategy_trend.csv,table_csv,Year-level trends in opening scale and release-strategy shares.
+figures/table_16_yearly_release_strategy_trend.html,table_html,Year-level trends in opening scale and release-strategy shares.
+figures/table_17_decade_release_strategy_summary.csv,table_csv,Decade-level trends in opening scale and release-strategy shares.
+figures/table_17_decade_release_strategy_summary.html,table_html,Decade-level trends in opening scale and release-strategy shares.
+figures/fig_10_time_trend_scarcity.png,figure,Time trends in median opening theaters and release-strategy shares.
+figures/table_18_spearman_correlation_matrix.csv,table_csv,"Spearman correlation matrix for scarcity, reception, and performance variables."
+figures/table_18_spearman_correlation_matrix.html,table_html,"Spearman correlation matrix for scarcity, reception, and performance variables."
+figures/fig_11_correlation_matrix.png,figure,"Spearman correlation heatmap for core scarcity, reception, and performance variables."
+figures/table_19_case_films_parasite_oppenheimer.csv,table_csv,Dataset profile and percentile ranks for Parasite and Oppenheimer.
+figures/table_19_case_films_parasite_oppenheimer.html,table_html,Dataset profile and percentile ranks for Parasite and Oppenheimer.
+figures/fig_12_case_films_theater_rollout.png,figure,Parasite and Oppenheimer compared with the full sample in theater-rollout space.
+figures/table_20_parasite_like_platform_breakouts.csv,table_csv,"Films with scarce openings, later expansion, strong IMDb ratings, and positive ROI."
+figures/table_20_parasite_like_platform_breakouts.html,table_html,"Films with scarce openings, later expansion, strong IMDb ratings, and positive ROI."
+figures/table_21_oppenheimer_like_mainstream_events.csv,table_csv,"Wide high-budget films with strong ratings, high worldwide box office, and long legs."
+figures/table_21_oppenheimer_like_mainstream_events.html,table_html,"Wide high-budget films with strong ratings, high worldwide box office, and long legs."
+figures/table_22_research_questions_answer_status.csv,table_csv,Research questions mapped to what the EDA can and cannot answer.
+figures/table_22_research_questions_answer_status.html,table_html,Research questions mapped to what the EDA can and cannot answer.

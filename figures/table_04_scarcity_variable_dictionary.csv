@@ -1,0 +1,11 @@
+variable,definition
+release_strategy,"Opening-theater bucket: exclusive, limited, platform/moderate, semi-wide, or wide."
+opening_scarcity_score,Percentile-style scarcity score from 0 to 1; higher means fewer opening theaters.
+opening_scarcity_pct,Same score on a 0-100 scale.
+scarcity_quartile,"Quartiles of opening-theater scarcity, with highest scarcity meaning the smallest openings."
+theater_expansion_ratio,Maximum theaters divided by opening theaters; high values indicate platform-style expansion.
+opening_to_max_ratio,Opening theaters divided by maximum theaters; low values mean early access was much more restricted than later access.
+platform_expansion_flag,"Opening in 100 or fewer theaters and eventually reaching at least 1,000 theaters."
+major_expansion_flag,"At least 10x theater expansion and eventual maximum of at least 1,000 theaters."
+arthouse_prestige_proxy,"Non-franchise, <=600 opening theaters, lower/moderate budget, and genre/source/creative markers associated with prestige cinema."
+mainstream_event_proxy,"Franchise, wide opening, high budget, or action/adventure/fantasy/sci-fi/superhero/kids markers."

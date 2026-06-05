@@ -1,0 +1,9 @@
+model,short_name,dependent_variable,estimator,thesis_purpose
+M1,IMDb rating,imdb_rating_num,OLS HC3,Does platform scarcity predict perceived value after controls?
+M2,Legs,legs,OLS HC3,Does platform scarcity predict sustained theatrical demand?
+M3,Worldwide box office,log_worldwide_box_office,OLS HC3,Does scarcity constrain or support commercial scale after controls?
+M4,Worldwide ROI,roi_worldwide_capped,OLS HC3,Is scarcity commercially efficient relative to budget?
+M5,Franchise interaction,imdb_rating_num,OLS HC3,Does opening scale mean something different for franchise films?
+M6,Quality interaction,log_worldwide_box_office,OLS HC3,Does platform scarcity work better when rating is high?
+M7,Platform-release likelihood,platform_release,Binomial GLM HC3,Which films are more likely to receive platform-release treatment?
+M8,Box-office quantiles,log_worldwide_box_office,Quantile regression,Does scarcity matter differently across the box-office distribution?

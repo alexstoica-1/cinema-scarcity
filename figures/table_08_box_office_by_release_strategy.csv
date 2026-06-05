@@ -1,0 +1,6 @@
+release_strategy,films,median_budget,median_opening_weekend,median_domestic_box,median_worldwide_box,median_domestic_share,profitable_worldwide_pct
+Exclusive (1-10),648,9000000.0,86833.5,4539374.0,12932538.0,45.55,65.12
+Limited (11-100),227,10000000.0,248847.0,4404154.0,17025444.0,45.3,63.44
+Platform / moderate (101-600),140,12000000.0,1372680.5,5103392.0,14242159.0,48.15,56.43
+"Semi-wide (601-1,999)",515,17000000.0,5582079.0,19005109.0,28649556.0,69.7,70.1
+"Wide (2,000+)",2429,45000000.0,16728411.0,54760791.0,105078449.0,51.1,84.69

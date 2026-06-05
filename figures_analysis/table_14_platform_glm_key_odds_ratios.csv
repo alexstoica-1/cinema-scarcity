@@ -1,0 +1,4 @@
+model,term,coef,std_error,p_value,ci_low,ci_high,stars,odds_ratio,or_ci_low,or_ci_high
+M7 Platform likelihood,imdb_rating_num,1.4959,0.104,0.0,1.2921,1.6996,***,4.4633,3.6406,5.472
+M7 Platform likelihood,log_budget,-0.2116,0.0496,0.0,-0.3087,-0.1144,***,0.8093,0.7344,0.8919
+M7 Platform likelihood,is_franchise,-1.1487,0.2581,0.0,-1.6545,-0.6429,***,0.3171,0.1912,0.5258

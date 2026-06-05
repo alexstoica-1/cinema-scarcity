@@ -1,0 +1,5 @@
+release_strategy,films,share_pct,median_opening_theaters,median_max_theaters,median_imdb_rating,median_legs,median_roi_capped
+Limited release,523,13.21,6.0,82.0,6.9,6.42,1.035
+Moderate release,655,16.545,1269.0,1477.0,6.6,3.28,1.829
+Platform release,352,8.891,5.0,1188.0,7.35,6.08,3.477
+Wide release,2429,61.354,2981.0,3014.0,6.3,2.95,2.584

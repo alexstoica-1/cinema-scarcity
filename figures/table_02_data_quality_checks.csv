@@ -1,0 +1,11 @@
+check,value
+rows,3959
+columns,40
+duplicate full rows,0
+duplicate movie_name + release_year,0
+minimum release year,1972
+maximum release year,2025
+missing release_date,0
+missing opening_theaters,0
+missing max_theaters,0
+missing IMDb rating,98

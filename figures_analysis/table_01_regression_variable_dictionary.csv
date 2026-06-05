@@ -1,0 +1,11 @@
+variable,definition
+platform_release,1 if opening_theaters <= 100 and max_theaters >= 500; platform-style scarcity followed by reach.
+limited_release,1 if opening_theaters <= 100; initial access scarcity regardless of later expansion.
+wide_release,"1 if opening_theaters >= 2,000; broad initial access."
+platform_release_ratio,opening_theaters / max_theaters; lower values imply stronger platform rollout.
+theater_expansion_ratio,max_theaters / opening_theaters; higher values imply stronger expansion after initial scarcity.
+log_expansion_ratio,"log(1 + theater_expansion_ratio), used to reduce skew."
+legs,domestic_box_office_usd / opening_weekend_usd; sustained demand after opening weekend.
+roi_worldwide_capped,worldwide ROI clipped at the 99th percentile for regression stability.
+high_rating,1 if IMDb rating >= 7.0; missing IMDb ratings remain missing.
+genre_fe/source_fe/creative_type_fe,Fixed-effect categories with rare categories collapsed into Other.

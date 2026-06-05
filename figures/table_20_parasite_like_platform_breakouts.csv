@@ -1,0 +1,26 @@
+movie_name,release_year,genre,source,opening_theaters,max_theaters,theater_expansion_ratio,legs,imdb_rating_num,worldwide_box_office_usd,roi_worldwide,positioning_proxy
+Frozen,2013,Musical,Based on Folk Tale/Legend/Fairytale,1.0,3742.0,3742.0,5.95,7.4,1271023300.0,8.47,Mainstream/event proxy
+Toy Story 2,1999,Adventure,Original Screenplay,1.0,3257.0,3257.0,4.28,7.9,511358276.0,5.68,Mainstream/event proxy
+Hercules,1997,Adventure,Based on Religious Text,1.0,2930.0,2930.0,4.62,7.3,250700000.0,3.58,Mainstream/event proxy
+A Bug’s Life,1998,Adventure,Original Screenplay,1.0,2773.0,2773.0,4.9,7.2,363095319.0,8.07,Arthouse/prestige proxy
+Anastasia,1997,Musical,Based on Factual Book/Article,1.0,2514.0,2514.0,4.14,7.2,139801096.0,2.64,Arthouse/prestige proxy
+The Princess and the Frog,2009,Adventure,Based on Fiction Book/Short Story,2.0,3475.0,1737.5,4.31,7.2,270997378.0,2.58,Mainstream/event proxy
+Mr. Holland’s Opus,1995,Drama,Original Screenplay,1.0,1659.0,1659.0,8.92,7.3,106282604.0,3.43,Arthouse/prestige proxy
+Lone Survivor,2013,Action,Based on Factual Book/Article,2.0,3285.0,1642.5,3.31,7.3,149804632.0,3.75,Arthouse/prestige proxy
+Beauty and the Beast,1991,Musical,Based on Fiction Book/Short Story,2.0,2625.0,1312.5,11.62,8.0,438656843.0,21.93,Mainstream/event proxy
+The Lion King,1994,Adventure,Original Screenplay,2.0,2624.0,1312.0,10.37,8.5,988389726.0,12.46,Mainstream/event proxy
+The Shape of Water,2017,Drama,Original Screenplay,2.0,2341.0,1170.5,10.78,7.3,195790794.0,10.04,Arthouse/prestige proxy
+Aladdin,1992,Adventure,Based on Folk Tale/Legend/Fairytale,2.0,2331.0,1165.5,11.27,8.0,504050219.0,18.0,Mainstream/event proxy
+Moulin Rouge,2001,Musical,Original Screenplay,2.0,2283.0,1141.5,4.18,7.6,179199536.0,3.38,Mainstream/event proxy
+Sicko,2007,Documentary,Based on Real Life Events,1.0,1117.0,1117.0,5.45,8.0,36535837.0,4.06,Arthouse/prestige proxy
+A Man Called Otto,2022,Comedy,Based on Fiction Book/Short Story,4.0,3957.0,989.25,5.01,7.5,108641148.0,2.17,Arthouse/prestige proxy
+Defiance,2009,Drama,Original Screenplay,2.0,1793.0,896.5,3.21,7.1,52987754.0,1.06,Arthouse/prestige proxy
+Bobby,2006,Drama,Based on Real Life Events,2.0,1670.0,835.0,2.31,7.0,20597806.0,1.47,Arthouse/prestige proxy
+There Will Be Blood,2007,Drama,Based on Fiction Book/Short Story,2.0,1620.0,810.0,8.26,8.2,77186081.0,3.09,Arthouse/prestige proxy
+I Am Sam,2001,Drama,Original Screenplay,2.0,1450.0,725.0,4.84,7.6,92542418.0,4.21,Arthouse/prestige proxy
+Wind River,2017,Thriller/Suspense,Original Screenplay,4.0,2890.0,722.5,5.42,7.7,44984979.0,4.09,Mainstream/event proxy
+Fighting With My Family,2019,Comedy,Based on Real Life Events,4.0,2855.0,713.75,2.94,7.0,41503088.0,3.77,Arthouse/prestige proxy
+Parasite (기생충),2019,Black Comedy,Original Screenplay,3.0,2001.0,667.0,9.39,8.5,253267858.0,21.46,Arthouse/prestige proxy
+La La Land,2016,Musical,Original Screenplay,5.0,3236.0,647.2,10.4,8.0,506374600.0,16.88,Arthouse/prestige proxy
+The King’s Speech,2010,Drama,Original Screenplay,4.0,2584.0,646.0,12.54,8.0,430061213.0,28.67,Arthouse/prestige proxy
+Corpse Bride,2005,Adventure,Based on Folk Tale/Legend/Fairytale,5.0,3204.0,640.8,2.79,7.4,114686476.0,2.87,Mainstream/event proxy

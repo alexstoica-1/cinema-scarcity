@@ -1,0 +1,8 @@
+model,nobs,df_model,estimator,r_squared,adj_r_squared,pseudo_r2_cs
+M1 IMDb rating,3861,89.0,OLS,0.3525,0.3372,
+M2 Legs,3861,69.0,OLS,0.3947,0.3836,
+M3 Worldwide box office,3861,81.0,OLS,0.7689,0.764,
+M4 ROI,3861,69.0,OLS,0.4074,0.3966,
+M5 Franchise interaction,3861,68.0,OLS,0.3306,0.3186,
+M6 Quality interaction,3861,70.0,OLS,0.7529,0.7483,
+M7 Platform likelihood,3861,31.0,Binomial GLM,,,0.1557

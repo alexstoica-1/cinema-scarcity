@@ -1,0 +1,50 @@
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>variable</th>
+      <th>definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>platform_release</td>
+      <td>1 if opening_theaters &lt;= 100 and max_theaters &gt;= 500; platform-style scarcity followed by reach.</td>
+    </tr>
+    <tr>
+      <td>limited_release</td>
+      <td>1 if opening_theaters &lt;= 100; initial access scarcity regardless of later expansion.</td>
+    </tr>
+    <tr>
+      <td>wide_release</td>
+      <td>1 if opening_theaters &gt;= 2,000; broad initial access.</td>
+    </tr>
+    <tr>
+      <td>platform_release_ratio</td>
+      <td>opening_theaters / max_theaters; lower values imply stronger platform rollout.</td>
+    </tr>
+    <tr>
+      <td>theater_expansion_ratio</td>
+      <td>max_theaters / opening_theaters; higher values imply stronger expansion after initial scarcity.</td>
+    </tr>
+    <tr>
+      <td>log_expansion_ratio</td>
+      <td>log(1 + theater_expansion_ratio), used to reduce skew.</td>
+    </tr>
+    <tr>
+      <td>legs</td>
+      <td>domestic_box_office_usd / opening_weekend_usd; sustained demand after opening weekend.</td>
+    </tr>
+    <tr>
+      <td>roi_worldwide_capped</td>
+      <td>worldwide ROI clipped at the 99th percentile for regression stability.</td>
+    </tr>
+    <tr>
+      <td>high_rating</td>
+      <td>1 if IMDb rating &gt;= 7.0; missing IMDb ratings remain missing.</td>
+    </tr>
+    <tr>
+      <td>genre_fe/source_fe/creative_type_fe</td>
+      <td>Fixed-effect categories with rare categories collapsed into Other.</td>
+    </tr>
+  </tbody>
+</table>

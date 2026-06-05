@@ -1,0 +1,9 @@
+check,value
+rows in raw final dataset,3959
+rows in regression dataframe,3959
+missing IMDb rating,98
+platform release films,366
+limited release films,875
+wide release films,2429
+release year minimum,1972
+release year maximum,2025
